@@ -39,7 +39,7 @@
 # Copyright
 # ---------
 #
-# Copyright 2017 Bank Of Nova Scotia, unless otherwise noted.
+# Copyright 2017 Oji Nnorom, unless otherwise noted.
 #
 class obiji {
 
